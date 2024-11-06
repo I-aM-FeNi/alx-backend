@@ -115,3 +115,6 @@ This project contains tasks for learning to create internationalized web pages w
     ![Hello World! with a logged in message and the current time in French](assets/task_8_1.png)
   + Displaying the time in English looks like this:<br/>
     ![Hello World! with a logged in message and the current time in English](assets/task_8_2.png)
+
+
+Malcolm Iheremelam
