@@ -2,7 +2,7 @@
 
 This project contains tasks for learning to paginate data.
 
-### Malcolm Iheremelam
+### Mamello Motaung
 
 ## Tasks To Complete
 
