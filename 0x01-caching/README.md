@@ -2,7 +2,7 @@
 
 This project contains tasks for learning to cache data.
 
-By Malcolm Iheremelam
+By Mamello Motaung
 
 ## Tasks To Complete
 
